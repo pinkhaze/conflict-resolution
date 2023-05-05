@@ -1,2 +1,3 @@
 # conflict-resolution
-Activity 27
+
+## This is a subheading created on GitHub
